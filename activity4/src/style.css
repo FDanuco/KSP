@@ -1,0 +1,49 @@
+
+.custom-container {
+    max-width: 500px;
+    /* Adjust the container width as needed */
+}
+.navbar, #footer{
+    background-color: #487e94;
+
+}
+
+.navbar li {
+    font-weight: normal;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    padding-left: 25px;
+}
+
+.navbar-brand img {
+    width: 100px;
+    height: 80px;
+}
+
+.cover{
+    background-color: #8e5a41;
+    color: #fff;
+    text-align: justify;
+}
+
+h1, h2, h3{
+    font-family: "Poppins", sans-serif;
+}
+
+blockquote{
+    font-family: "Poppins", sans-serif;
+}
+
+p {
+    font-family: "Poppins", sans-serif;
+    
+}
+
+/* BLOG */
+
+.card{
+    padding: 10px 5px;
+    border-width: 2px;
+    border-style: solid;
+    ;
+}
